@@ -1,6 +1,6 @@
 <h1>PowerShell Active Direcrory</h1>
 
-<h2>⭐️THIS SCRIPT IS UNDER CONSTRUCTION AND NOT READY FOR PRODUCION ENVIRONMENTS⭐️</h2>
+<h2>⭐️THESE SCRIPTS ARE UNDER CONSTRUCTION AND NOT READY FOR PRODUCION ENVIRONMENTS⭐️</h2>
 
 <h2>Description</h2>
 Project consists of PowerShell scripts to create users and groups from PowerShell environment on a Windows Server
@@ -164,7 +164,7 @@ Step 1: <br/>
  
  <b>Task 4: To disable single user</b>
 <br />
- $splitName = $name.split(' ')
+$splitName = $name.split(' ')
 <br />
 $username = $splitName[0].substring(0,1) + $splitName[1]
 <br />
