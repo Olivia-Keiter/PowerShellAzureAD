@@ -1,4 +1,6 @@
-<h1>PowerShell Active Direcroty</h1>
+<h1>PowerShell Active Direcrory</h1>
+
+<h2>⭐️THIS SCRIPT IS UNDER CONSTRUCTION AND NOT READY FOR PRODUCION ENVIRONMENTS⭐️</h2>
 
 <h2>Description</h2>
 Project consists of PowerShell scripts to create users and groups from PowerShell environment on a Windows Server
@@ -18,16 +20,14 @@ Project consists of PowerShell scripts to create users and groups from PowerShel
 <br />
 Create two local users and a local group
 <br />
-
+<br />
 <b>Task 2:</b>
 <br />
-Script a file to create users and add to the correct group.
+Script a file to create users and add to the correct group
 <br />
-Transcript files recording creation of the user.
+Verify user accounts are created and added to the correct group
 <br />
-Verify user accounts are created and added to the correct group.
 <br />
-
 <b>Task 3:</b>
 <br />
 Script file that will export users and group membership
@@ -36,20 +36,17 @@ Exported user details to CSV file
 <br />
 Exported group membership to a JSON file
 <br />
-
+<br />
 <b>Task 4:</b>
 <br />
 Command to input file and pass to script
 <br />
-Users created from New Users.txt 
+Users created from NewUsers.txt 
 <br />
 Script file or options to disable users
 <br />
-Command to input Remove Users.txt file to pass to script
+Command to input RemoveUsers.txt file to pass to script
 <br />
-Four (4) user accounts disabled by script
-<br />
-Transcript logs for executions of scripts
 
 
 <h2>Demonstration:</h2>
