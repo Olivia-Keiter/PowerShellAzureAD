@@ -1,6 +1,6 @@
 <h1>PowerShell Active Direcrory</h1>
 
-<h2>⭐️THESE SCRIPTS ARE UNDER CONSTRUCTION AND NOT READY FOR PRODUCION ENVIRONMENTS⭐️</h2>
+<h2>⭐️THESE SCRIPTS ARE UNDER CONSTRUCTION AND NOT READY FOR PRODUCTION ENVIRONMENTS⭐️</h2>
 
 <h2>Description</h2>
 Project consists of PowerShell scripts to create users and groups from PowerShell environment on a Windows Server
